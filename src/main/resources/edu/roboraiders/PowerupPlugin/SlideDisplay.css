@@ -1,0 +1,6 @@
+
+@import "/edu/wpi/first/shuffleboard/api/base.css";
+
+#progress-bar{
+	-fx-rotate: 90;
+}
